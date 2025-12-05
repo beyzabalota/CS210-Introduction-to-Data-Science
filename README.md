@@ -11,5 +11,5 @@ This repository contains assignments and the term project completed for the cour
 All tasks were implemented using **Python** in **Jupyter Notebooks**.
 
 ---
-> Course Instructor: Onur Varol
-> University: Sabancı University
+- Course Instructor: Onur Varol
+- University: Sabancı University
