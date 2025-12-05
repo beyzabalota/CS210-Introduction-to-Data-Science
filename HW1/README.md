@@ -27,10 +27,11 @@ A static HTML version of the playlist page was used to allow scraping via Beauti
   - Correlation between features (e.g., popularity vs. loudness)
 
 ## Key Observations
-- Songs with high energy often had higher loudness and tempo
-- Popularity showed weak correlation with most audio features
-- Tempo distribution was centered around 120 BPM
-- Valence and danceability were positively correlated
+- Energy and loudness have a strong positive correlation (r ≈ 0.76). Songs with higher energy levels are typically louder.
+- Popularity has weak correlation with most other audio features, indicating it is likely influenced by external, non-audio factors.
+- Most songs in the playlist fall into the "medium BPM" category, roughly between 100–130 BPM.
+- Valence and danceability show a moderate positive correlation, suggesting happier songs tend to be more danceable.
+
 
 ## Files
 - `CS210 Homework #1  Spotify Playlist Analysis.ipynb`: Jupyter Notebook implementation
