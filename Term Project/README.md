@@ -69,16 +69,8 @@ Due to the limited size and time span of the dataset (less than a year's worth o
   - Best R² Score: ~**-0.70** (very low, indicates poor fit)
   - Best MSE: ~**4.10**
   - Suggests that model couldn’t reliably predict cycle variation from current features
+ 
+- Future work needed
 
----
 
-## Prediction Example
-
-Using the trained regression model:
-```python
-new_data = pd.DataFrame({
-  'Total Sleep Hours': [7.5, 6.0, 8.0],
-  'Total Steps': [6000, 4500, 7500]
-})
-predictions = best_regressor.predict(new_data)
 
