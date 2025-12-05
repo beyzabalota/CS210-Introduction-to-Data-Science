@@ -61,8 +61,9 @@ It includes columns like:
 
 ## Files
 
-- `Beyza-Balota-CS210-HW2.ipynb`: Jupyter Notebook with code and outputs  
+- `CS210-HW2.ipynb`: Jupyter Notebook with code and outputs  
 - `README.md`: Project overview (this file)
+-  `cs210_hw2_dataset.csv`: downloaded kaggle dataset
 
 ---
 
