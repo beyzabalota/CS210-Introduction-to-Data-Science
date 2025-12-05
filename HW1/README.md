@@ -33,7 +33,7 @@ A static HTML version of the playlist page was used to allow scraping via Beauti
 - Valence and danceability were positively correlated
 
 ## Files
-- `beyzabalota_31232_CS210 Homework #1  Spotify Playlist Analysis.ipynb`: Jupyter Notebook implementation
+- `CS210 Homework #1  Spotify Playlist Analysis.ipynb`: Jupyter Notebook implementation
 - `README.md`: This file
 
 ## Notes
